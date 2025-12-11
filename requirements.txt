@@ -1,0 +1,8 @@
+flask
+openai
+python-dotenv
+requests
+gTTS
+moviepy
+Pillow
+google-generativeai
